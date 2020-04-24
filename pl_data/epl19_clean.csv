@@ -1,0 +1,289 @@
+,Date,Time,Home Team,Away Team,Home Goals,Away Goals,Result,Referee,Home Shots,Home Shots On Target,Away Shots,Away Shots On Target
+0,2019-08-09,20:00,Liverpool,Norwich,4,1,H,M Oliver,15,7,12,5
+1,2019-08-10,12:30,West Ham,Man City,0,5,A,M Dean,5,3,14,9
+2,2019-08-10,15:00,Bournemouth,Sheffield United,1,1,D,K Friend,13,3,8,3
+3,2019-08-10,15:00,Burnley,Southampton,3,0,H,G Scott,10,4,11,3
+4,2019-08-10,15:00,Crystal Palace,Everton,0,0,D,J Moss,6,2,10,3
+5,2019-08-10,15:00,Watford,Brighton,0,3,A,C Pawson,11,3,5,3
+6,2019-08-10,17:30,Tottenham,Aston Villa,3,1,H,C Kavanagh,31,7,7,4
+7,2019-08-11,14:00,Leicester,Wolves,0,0,D,A Marriner,15,1,8,2
+8,2019-08-11,14:00,Newcastle,Arsenal,0,1,A,M Atkinson,9,2,8,2
+9,2019-08-11,16:30,Man United,Chelsea,4,0,H,A Taylor,11,5,18,7
+10,2019-08-17,12:30,Arsenal,Burnley,2,1,H,M Dean,16,9,18,5
+11,2019-08-17,15:00,Aston Villa,Bournemouth,1,2,A,M Atkinson,22,7,12,4
+12,2019-08-17,15:00,Brighton,West Ham,1,1,D,A Taylor,16,4,8,3
+13,2019-08-17,15:00,Everton,Watford,1,0,H,L Mason,12,2,8,2
+14,2019-08-17,15:00,Norwich,Newcastle,3,1,H,S Attwell,15,8,10,3
+15,2019-08-17,15:00,Southampton,Liverpool,1,2,A,A Marriner,14,3,15,6
+16,2019-08-17,17:30,Man City,Tottenham,2,2,D,M Oliver,30,10,3,2
+17,2019-08-18,14:00,Sheffield United,Crystal Palace,1,0,H,D Coote,15,3,6,4
+18,2019-08-18,16:30,Chelsea,Leicester,1,1,D,O Langford,14,5,12,3
+19,2019-08-19,20:00,Wolves,Man United,1,1,D,J Moss,6,2,9,2
+20,2019-08-23,20:00,Aston Villa,Everton,2,0,H,M Oliver,7,3,12,1
+21,2019-08-24,12:30,Norwich,Chelsea,2,3,A,M Atkinson,6,5,23,8
+22,2019-08-24,15:00,Brighton,Southampton,0,2,A,K Friend,12,3,12,4
+23,2019-08-24,15:00,Man United,Crystal Palace,1,2,A,P Tierney,22,3,5,3
+24,2019-08-24,15:00,Sheffield United,Leicester,1,2,A,A Madley,8,3,10,2
+25,2019-08-24,15:00,Watford,West Ham,1,3,A,C Kavanagh,23,3,16,10
+26,2019-08-24,17:30,Liverpool,Arsenal,3,1,H,A Taylor,25,5,9,3
+27,2019-08-25,14:00,Bournemouth,Man City,1,3,A,A Marriner,10,7,19,5
+28,2019-08-25,16:30,Tottenham,Newcastle,0,1,A,M Dean,17,2,8,3
+29,2019-08-25,16:30,Wolves,Burnley,1,1,D,C Pawson,17,2,13,4
+30,2019-08-31,12:30,Southampton,Man United,1,1,D,M Dean,10,2,21,8
+31,2019-08-31,15:00,Chelsea,Sheffield United,2,2,D,S Attwell,13,5,8,2
+32,2019-08-31,15:00,Crystal Palace,Aston Villa,1,0,H,K Friend,22,5,10,2
+33,2019-08-31,15:00,Leicester,Bournemouth,3,1,H,P Bankes,13,5,8,2
+34,2019-08-31,15:00,Man City,Brighton,4,0,H,J Moss,15,6,6,2
+35,2019-08-31,15:00,Newcastle,Watford,1,1,D,G Scott,13,5,13,3
+36,2019-08-31,15:00,West Ham,Norwich,2,0,H,P Tierney,18,8,8,3
+37,2019-08-31,17:30,Burnley,Liverpool,0,3,A,C Kavanagh,7,2,15,7
+38,2019-09-01,14:00,Everton,Wolves,3,2,H,A Taylor,15,6,8,5
+39,2019-09-01,16:30,Arsenal,Tottenham,2,2,D,M Atkinson,26,8,13,9
+40,2019-09-14,12:30,Liverpool,Newcastle,3,1,H,A Marriner,21,9,8,1
+41,2019-09-14,15:00,Brighton,Burnley,1,1,D,M Oliver,14,5,7,1
+42,2019-09-14,15:00,Man United,Leicester,1,0,H,M Atkinson,10,5,9,3
+43,2019-09-14,15:00,Sheffield United,Southampton,0,1,A,L Mason,17,4,11,7
+44,2019-09-14,15:00,Tottenham,Crystal Palace,4,0,H,C Pawson,13,5,11,6
+45,2019-09-14,15:00,Wolves,Chelsea,2,5,A,G Scott,11,4,15,6
+46,2019-09-14,17:30,Norwich,Man City,3,2,H,K Friend,7,3,25,8
+47,2019-09-15,14:00,Bournemouth,Everton,3,1,H,P Tierney,13,6,14,5
+48,2019-09-15,16:30,Watford,Arsenal,2,2,D,A Taylor,31,7,10,4
+49,2019-09-16,20:00,Aston Villa,West Ham,0,0,D,M Dean,10,5,13,1
+50,2019-09-20,20:00,Southampton,Bournemouth,1,3,A,C Kavanagh,25,6,6,3
+51,2019-09-21,12:30,Leicester,Tottenham,2,1,H,P Tierney,16,7,11,4
+52,2019-09-21,15:00,Burnley,Norwich,2,0,H,D Coote,13,6,11,2
+53,2019-09-21,15:00,Everton,Sheffield United,0,2,A,S Hooper,16,3,2,1
+54,2019-09-21,15:00,Man City,Watford,8,0,H,M Dean,28,11,5,4
+55,2019-09-21,17:30,Newcastle,Brighton,0,0,D,M Atkinson,11,4,16,3
+56,2019-09-22,14:00,Crystal Palace,Wolves,1,1,D,S Attwell,13,4,14,4
+57,2019-09-22,14:00,West Ham,Man United,2,0,H,A Taylor,8,6,9,3
+58,2019-09-22,16:30,Arsenal,Aston Villa,3,2,H,J Moss,21,6,14,9
+59,2019-09-22,16:30,Chelsea,Liverpool,1,2,A,M Oliver,13,2,6,3
+60,2019-09-28,12:30,Sheffield United,Liverpool,0,1,A,A Taylor,12,2,16,4
+61,2019-09-28,15:00,Aston Villa,Burnley,2,2,D,L Mason,16,3,10,3
+62,2019-09-28,15:00,Bournemouth,West Ham,2,2,D,S Attwell,13,5,17,6
+63,2019-09-28,15:00,Chelsea,Brighton,2,0,H,C Kavanagh,24,10,8,1
+64,2019-09-28,15:00,Crystal Palace,Norwich,2,0,H,J Moss,15,3,10,3
+65,2019-09-28,15:00,Tottenham,Southampton,2,1,H,G Scott,9,4,14,6
+66,2019-09-28,15:00,Wolves,Watford,2,0,H,P Tierney,6,2,14,5
+67,2019-09-28,17:30,Everton,Man City,1,3,A,M Oliver,12,8,20,9
+68,2019-09-29,16:30,Leicester,Newcastle,5,0,H,C Pawson,13,5,3,0
+69,2019-09-30,20:00,Man United,Arsenal,1,1,D,K Friend,16,4,10,5
+70,2019-10-05,12:30,Brighton,Tottenham,3,0,H,J Moss,17,6,8,3
+71,2019-10-05,15:00,Burnley,Everton,1,0,H,G Scott,9,3,11,2
+72,2019-10-05,15:00,Liverpool,Leicester,2,1,H,C Kavanagh,18,8,2,1
+73,2019-10-05,15:00,Norwich,Aston Villa,1,5,A,A Madley,21,5,22,12
+74,2019-10-05,15:00,Watford,Sheffield United,0,0,D,A Marriner,8,2,9,3
+75,2019-10-05,17:30,West Ham,Crystal Palace,1,2,A,M Oliver,9,4,7,4
+76,2019-10-06,14:00,Arsenal,Bournemouth,1,0,H,M Atkinson,12,2,10,2
+77,2019-10-06,14:00,Man City,Wolves,0,2,A,C Pawson,18,2,7,2
+78,2019-10-06,14:00,Southampton,Chelsea,1,4,A,P Tierney,10,3,13,7
+79,2019-10-06,16:30,Newcastle,Man United,1,0,H,M Dean,12,2,12,3
+80,2019-10-19,12:30,Everton,West Ham,2,0,H,P Tierney,19,10,8,4
+81,2019-10-19,15:00,Aston Villa,Brighton,2,1,H,D Coote,24,8,20,5
+82,2019-10-19,15:00,Bournemouth,Norwich,0,0,D,L Mason,11,2,10,1
+83,2019-10-19,15:00,Chelsea,Newcastle,1,0,H,A Marriner,16,8,5,0
+84,2019-10-19,15:00,Leicester,Burnley,2,1,H,J Moss,19,3,13,4
+85,2019-10-19,15:00,Tottenham,Watford,1,1,D,C Kavanagh,12,2,7,2
+86,2019-10-19,15:00,Wolves,Southampton,1,1,D,P Bankes,4,1,14,5
+87,2019-10-19,17:30,Crystal Palace,Man City,0,2,A,A Taylor,7,2,21,10
+88,2019-10-20,16:30,Man United,Liverpool,1,1,D,M Atkinson,7,2,10,4
+89,2019-10-21,20:00,Sheffield United,Arsenal,1,0,H,M Dean,8,2,9,3
+90,2019-10-25,20:00,Southampton,Leicester,0,9,A,A Marriner,6,3,25,15
+91,2019-10-26,12:30,Man City,Aston Villa,3,0,H,G Scott,25,9,11,5
+92,2019-10-26,15:00,Brighton,Everton,3,2,H,A Madley,8,4,10,6
+93,2019-10-26,15:00,Watford,Bournemouth,0,0,D,M Dean,7,3,15,5
+94,2019-10-26,15:00,West Ham,Sheffield United,1,1,D,D Coote,12,4,10,4
+95,2019-10-26,17:30,Burnley,Chelsea,2,4,A,M Oliver,13,5,16,7
+96,2019-10-27,14:00,Newcastle,Wolves,1,1,D,K Friend,13,2,13,5
+97,2019-10-27,16:30,Arsenal,Crystal Palace,2,2,D,M Atkinson,15,6,10,4
+98,2019-10-27,16:30,Liverpool,Tottenham,2,1,H,A Taylor,21,13,11,4
+99,2019-10-27,16:30,Norwich,Man United,1,3,A,S Attwell,10,3,21,11
+100,2019-11-02,12:30,Bournemouth,Man United,1,0,H,C Kavanagh,12,6,15,4
+101,2019-11-02,15:00,Arsenal,Wolves,1,1,D,M Oliver,10,4,25,8
+102,2019-11-02,15:00,Aston Villa,Liverpool,1,2,A,J Moss,5,2,25,6
+103,2019-11-02,15:00,Brighton,Norwich,2,0,H,K Friend,21,5,7,0
+104,2019-11-02,15:00,Man City,Southampton,2,1,H,L Mason,26,4,3,3
+105,2019-11-02,15:00,Sheffield United,Burnley,3,0,H,S Hooper,13,6,6,0
+106,2019-11-02,15:00,West Ham,Newcastle,2,3,A,S Attwell,16,6,12,9
+107,2019-11-02,17:30,Watford,Chelsea,1,2,A,A Taylor,12,3,16,10
+108,2019-11-03,14:00,Crystal Palace,Leicester,0,2,A,P Tierney,12,3,14,5
+109,2019-11-03,16:30,Everton,Tottenham,1,1,D,M Atkinson,7,3,4,2
+110,2019-11-08,20:00,Norwich,Watford,0,2,A,A Marriner,17,5,12,2
+111,2019-11-09,12:30,Chelsea,Crystal Palace,2,0,H,M Dean,23,5,3,1
+112,2019-11-09,15:00,Burnley,West Ham,3,0,H,K Friend,14,12,7,4
+113,2019-11-09,15:00,Newcastle,Bournemouth,2,1,H,M Atkinson,20,9,16,3
+114,2019-11-09,15:00,Southampton,Everton,1,2,A,P Tierney,4,3,24,5
+115,2019-11-09,15:00,Tottenham,Sheffield United,1,1,D,G Scott,17,5,14,4
+116,2019-11-09,17:30,Leicester,Arsenal,2,0,H,C Kavanagh,19,7,8,1
+117,2019-11-10,14:00,Man United,Brighton,3,1,H,J Moss,21,11,6,2
+118,2019-11-10,14:00,Wolves,Aston Villa,2,1,H,A Taylor,17,5,13,4
+119,2019-11-10,16:30,Liverpool,Man City,3,1,H,M Oliver,12,5,18,3
+120,2019-11-23,12:30,West Ham,Tottenham,2,3,A,M Oliver,11,4,15,6
+121,2019-11-23,15:00,Arsenal,Southampton,2,2,D,S Attwell,12,5,21,6
+122,2019-11-23,15:00,Bournemouth,Wolves,1,2,A,S Hooper,9,2,17,7
+123,2019-11-23,15:00,Brighton,Leicester,0,2,A,M Dean,7,0,19,9
+124,2019-11-23,15:00,Crystal Palace,Liverpool,1,2,A,K Friend,16,6,12,4
+125,2019-11-23,15:00,Everton,Norwich,0,2,A,A Taylor,18,7,13,5
+126,2019-11-23,15:00,Watford,Burnley,0,3,A,P Tierney,15,4,11,5
+127,2019-11-23,17:30,Man City,Chelsea,2,1,H,M Atkinson,15,4,11,2
+128,2019-11-24,16:30,Sheffield United,Man United,3,3,D,A Marriner,12,8,11,5
+129,2019-11-25,20:00,Aston Villa,Newcastle,2,0,H,L Mason,17,8,11,5
+130,2019-11-30,12:30,Newcastle,Man City,2,2,D,C Kavanagh,6,3,24,9
+131,2019-11-30,15:00,Burnley,Crystal Palace,0,2,A,P Bankes,15,4,7,2
+132,2019-11-30,15:00,Chelsea,West Ham,0,1,A,J Moss,19,6,5,4
+133,2019-11-30,15:00,Liverpool,Brighton,2,1,H,M Atkinson,15,7,12,5
+134,2019-11-30,15:00,Tottenham,Bournemouth,3,2,H,L Mason,15,5,20,6
+135,2019-11-30,17:30,Southampton,Watford,2,1,H,M Oliver,11,6,6,3
+136,2019-12-01,14:00,Norwich,Arsenal,2,2,D,P Tierney,15,8,16,7
+137,2019-12-01,14:00,Wolves,Sheffield United,1,1,D,D Coote,13,3,9,4
+138,2019-12-01,16:30,Leicester,Everton,2,1,H,G Scott,16,6,11,3
+139,2019-12-01,16:30,Man United,Aston Villa,2,2,D,C Pawson,16,6,9,3
+140,2019-12-03,19:30,Crystal Palace,Bournemouth,1,0,H,A Taylor,7,2,6,3
+141,2019-12-03,20:15,Burnley,Man City,1,4,A,J Moss,4,2,17,8
+142,2019-12-04,19:30,Chelsea,Aston Villa,2,1,H,C Kavanagh,25,9,9,3
+143,2019-12-04,19:30,Leicester,Watford,2,0,H,C Pawson,12,6,4,1
+144,2019-12-04,19:30,Man United,Tottenham,2,1,H,P Tierney,12,7,8,5
+145,2019-12-04,19:30,Southampton,Norwich,2,1,H,K Friend,14,5,10,3
+146,2019-12-04,19:30,Wolves,West Ham,2,0,H,A Marriner,13,7,6,3
+147,2019-12-04,20:15,Liverpool,Everton,5,2,H,M Dean,11,5,12,4
+148,2019-12-05,19:30,Sheffield United,Newcastle,0,2,A,S Attwell,13,6,6,4
+149,2019-12-05,20:15,Arsenal,Brighton,1,2,A,G Scott,12,5,20,9
+150,2019-12-07,12:30,Everton,Chelsea,3,1,H,C Pawson,13,7,15,4
+151,2019-12-07,15:00,Bournemouth,Liverpool,0,3,A,C Kavanagh,3,0,21,9
+152,2019-12-07,15:00,Tottenham,Burnley,5,0,H,K Friend,13,7,7,1
+153,2019-12-07,15:00,Watford,Crystal Palace,0,0,D,M Atkinson,13,3,3,0
+154,2019-12-07,17:30,Man City,Man United,1,2,A,A Taylor,22,5,11,7
+155,2019-12-08,14:00,Aston Villa,Leicester,1,4,A,M Oliver,15,2,23,8
+156,2019-12-08,14:00,Newcastle,Southampton,2,1,H,D Coote,12,6,19,4
+157,2019-12-08,14:00,Norwich,Sheffield United,1,2,A,S Hooper,14,4,9,3
+158,2019-12-08,16:30,Brighton,Wolves,2,2,D,J Moss,13,4,13,5
+159,2019-12-09,20:00,West Ham,Arsenal,1,3,A,M Dean,11,4,10,3
+160,2019-12-14,12:30,Liverpool,Watford,2,0,H,A Marriner,16,6,8,2
+161,2019-12-14,15:00,Burnley,Newcastle,1,0,H,T Robinson,7,4,9,0
+162,2019-12-14,15:00,Chelsea,Bournemouth,0,1,A,G Scott,18,5,11,2
+163,2019-12-14,15:00,Leicester,Norwich,1,1,D,A Madley,18,5,10,3
+164,2019-12-14,15:00,Sheffield United,Aston Villa,2,0,H,P Bankes,7,3,8,0
+165,2019-12-14,17:30,Southampton,West Ham,0,1,A,M Atkinson,11,2,11,4
+166,2019-12-15,14:00,Man United,Everton,1,1,D,M Oliver,24,8,8,3
+167,2019-12-15,14:00,Wolves,Tottenham,1,2,A,S Attwell,18,5,9,5
+168,2019-12-15,16:30,Arsenal,Man City,0,3,A,P Tierney,6,1,14,7
+169,2019-12-16,19:45,Crystal Palace,Brighton,1,1,D,C Pawson,11,4,15,10
+170,2019-12-21,12:30,Everton,Arsenal,0,0,D,K Friend,9,0,6,2
+171,2019-12-21,15:00,Aston Villa,Southampton,1,3,A,C Pawson,19,6,17,8
+172,2019-12-21,15:00,Bournemouth,Burnley,0,1,A,M Atkinson,3,0,2,1
+173,2019-12-21,15:00,Brighton,Sheffield United,0,1,A,R Jones,9,2,7,2
+174,2019-12-21,15:00,Newcastle,Crystal Palace,1,0,H,S Hooper,8,3,16,4
+175,2019-12-21,15:00,Norwich,Wolves,1,2,A,P Bankes,13,7,14,4
+176,2019-12-21,17:30,Man City,Leicester,3,1,H,M Dean,23,12,5,2
+177,2019-12-22,14:00,Watford,Man United,2,0,H,L Mason,11,3,17,8
+178,2019-12-22,16:30,Tottenham,Chelsea,0,2,A,A Taylor,5,1,13,3
+179,2019-12-26,12:30,Tottenham,Brighton,2,1,H,G Scott,11,5,11,5
+180,2019-12-26,15:00,Aston Villa,Norwich,1,0,H,C Kavanagh,11,2,16,6
+181,2019-12-26,15:00,Bournemouth,Arsenal,1,1,D,S Attwell,12,4,17,2
+182,2019-12-26,15:00,Chelsea,Southampton,0,2,A,J Moss,10,3,5,3
+183,2019-12-26,15:00,Crystal Palace,West Ham,2,1,H,A Marriner,13,4,10,2
+184,2019-12-26,15:00,Everton,Burnley,1,0,H,A Taylor,21,5,6,0
+185,2019-12-26,15:00,Sheffield United,Watford,1,1,D,D Coote,16,4,5,2
+186,2019-12-26,17:30,Man United,Newcastle,4,1,H,K Friend,22,10,7,2
+187,2019-12-26,20:00,Leicester,Liverpool,0,4,A,M Oliver,3,0,15,6
+188,2019-12-27,19:45,Wolves,Man City,3,2,H,M Atkinson,20,8,7,3
+189,2019-12-28,12:30,Brighton,Bournemouth,2,0,H,P Tierney,16,6,10,2
+190,2019-12-28,15:00,Newcastle,Everton,1,2,A,L Mason,20,5,22,9
+191,2019-12-28,15:00,Southampton,Crystal Palace,1,1,D,A Madley,14,5,5,2
+192,2019-12-28,15:00,Watford,Aston Villa,3,0,H,S Hooper,20,6,11,2
+193,2019-12-28,17:30,Norwich,Tottenham,2,2,D,K Friend,5,2,15,7
+194,2019-12-28,17:30,West Ham,Leicester,1,2,A,D Coote,14,4,13,8
+195,2019-12-28,19:45,Burnley,Man United,0,2,A,M Dean,8,1,14,5
+196,2019-12-29,14:00,Arsenal,Chelsea,1,2,A,C Pawson,7,2,13,4
+197,2019-12-29,16:30,Liverpool,Wolves,1,0,H,A Taylor,10,3,10,2
+198,2019-12-29,18:00,Man City,Sheffield United,2,0,H,C Kavanagh,16,4,8,0
+199,2020-01-01,12:30,Brighton,Chelsea,1,1,D,S Attwell,16,5,16,5
+200,2020-01-01,12:30,Burnley,Aston Villa,1,2,A,M Oliver,20,1,11,6
+201,2020-01-01,15:00,Newcastle,Leicester,0,3,A,M Atkinson,5,2,17,10
+202,2020-01-01,15:00,Southampton,Tottenham,1,0,H,M Dean,12,3,11,5
+203,2020-01-01,15:00,Watford,Wolves,2,1,H,A Madley,9,3,16,4
+204,2020-01-01,17:30,Man City,Everton,2,1,H,A Marriner,16,7,7,2
+205,2020-01-01,17:30,Norwich,Crystal Palace,1,1,D,J Moss,15,4,12,3
+206,2020-01-01,17:30,West Ham,Bournemouth,4,0,H,G Scott,14,7,3,2
+207,2020-01-01,20:00,Arsenal,Man United,2,0,H,C Kavanagh,10,4,10,4
+208,2020-01-02,20:00,Liverpool,Sheffield United,2,0,H,P Tierney,19,7,3,2
+209,2020-01-10,20:00,Sheffield United,West Ham,1,0,H,M Oliver,13,3,7,2
+210,2020-01-11,12:30,Crystal Palace,Arsenal,1,1,D,P Tierney,6,3,7,4
+211,2020-01-11,15:00,Chelsea,Burnley,3,0,H,K Friend,18,8,7,2
+212,2020-01-11,15:00,Everton,Brighton,1,0,H,D Coote,14,6,9,2
+213,2020-01-11,15:00,Leicester,Southampton,1,2,A,L Mason,5,5,16,10
+214,2020-01-11,15:00,Man United,Norwich,4,0,H,A Taylor,13,6,8,3
+215,2020-01-11,15:00,Wolves,Newcastle,1,1,D,P Bankes,9,4,5,1
+216,2020-01-11,17:30,Tottenham,Liverpool,0,1,A,M Atkinson,14,4,13,7
+217,2020-01-12,14:00,Bournemouth,Watford,0,3,A,M Dean,10,1,18,6
+218,2020-01-12,16:30,Aston Villa,Man City,1,6,A,J Moss,7,1,22,12
+219,2020-01-18,12:30,Watford,Tottenham,0,0,D,M Oliver,15,2,17,5
+220,2020-01-18,15:00,Arsenal,Sheffield United,1,1,D,M Dean,11,4,12,4
+221,2020-01-18,15:00,Brighton,Aston Villa,1,1,D,A Madley,10,2,8,3
+222,2020-01-18,15:00,Man City,Crystal Palace,2,2,D,S Scott,25,6,5,3
+223,2020-01-18,15:00,Norwich,Bournemouth,1,0,H,P Tierney,16,5,6,3
+224,2020-01-18,15:00,Southampton,Wolves,2,3,A,D England,11,5,8,4
+225,2020-01-18,15:00,West Ham,Everton,1,1,D,A Marriner,12,6,11,3
+226,2020-01-18,17:30,Newcastle,Chelsea,1,0,H,C Kavanagh,7,2,19,4
+227,2020-01-19,14:00,Burnley,Leicester,2,1,H,A Taylor,8,5,18,8
+228,2020-01-19,16:30,Liverpool,Man United,2,0,H,C Pawson,16,5,9,4
+229,2020-01-21,19:30,Aston Villa,Watford,2,1,H,M Atkinson,16,5,8,2
+230,2020-01-21,19:30,Bournemouth,Brighton,3,1,H,K Friend,11,3,21,8
+231,2020-01-21,19:30,Crystal Palace,Southampton,0,2,A,A Marriner,6,0,15,6
+232,2020-01-21,19:30,Everton,Newcastle,2,2,D,S Hooper,17,8,8,2
+233,2020-01-21,19:30,Sheffield United,Man City,0,1,A,L Mason,4,1,18,5
+234,2020-01-21,20:15,Chelsea,Arsenal,2,2,D,S Attwell,19,8,2,2
+235,2020-01-22,19:30,Leicester,West Ham,4,1,H,D Coote,19,8,6,2
+236,2020-01-22,19:30,Tottenham,Norwich,2,1,H,C Kavanagh,14,3,12,2
+237,2020-01-22,20:15,Man United,Burnley,0,2,A,J Moss,24,7,5,2
+238,2020-01-23,20:00,Wolves,Liverpool,1,2,A,M Oliver,10,3,13,6
+239,2020-01-29,19:45,West Ham,Liverpool,0,2,A,J Moss,7,4,13,5
+240,2020-02-01,12:30,Leicester,Chelsea,2,2,D,L Mason,14,4,7,3
+241,2020-02-01,15:00,Bournemouth,Aston Villa,2,1,H,A Taylor,16,6,18,5
+242,2020-02-01,15:00,Crystal Palace,Sheffield United,0,1,A,A Madley,13,3,10,3
+243,2020-02-01,15:00,Liverpool,Southampton,4,0,H,K Friend,16,9,17,4
+244,2020-02-01,15:00,Newcastle,Norwich,0,0,D,M Atkinson,15,5,19,4
+245,2020-02-01,15:00,Watford,Everton,2,3,A,C Pawson,11,2,12,5
+246,2020-02-01,15:00,West Ham,Brighton,3,3,D,M Oliver,12,6,19,6
+247,2020-02-01,17:30,Man United,Wolves,0,0,D,P Tierney,15,5,14,3
+248,2020-02-02,14:00,Burnley,Arsenal,0,0,D,C Kavanagh,15,2,13,2
+249,2020-02-02,16:30,Tottenham,Man City,2,0,H,M Dean,3,3,18,5
+250,2020-02-08,12:30,Everton,Crystal Palace,3,1,H,D Coote,14,8,10,2
+251,2020-02-08,17:30,Brighton,Watford,1,1,D,K Friend,10,2,5,2
+252,2020-02-09,14:00,Sheffield United,Bournemouth,2,1,H,J Moss,16,6,10,2
+253,2020-02-14,20:00,Wolves,Leicester,0,0,D,M Dean,15,3,9,3
+254,2020-02-15,12:30,Southampton,Burnley,1,2,A,S Hooper,10,2,9,6
+255,2020-02-15,17:30,Norwich,Liverpool,0,1,A,S Attwell,5,1,17,6
+256,2020-02-16,14:00,Aston Villa,Tottenham,2,3,A,M Atkinson,18,4,23,10
+257,2020-02-16,16:30,Arsenal,Newcastle,4,0,H,L Mason,15,7,10,2
+258,2020-02-17,20:00,Chelsea,Man United,0,2,A,A Taylor,17,1,9,3
+259,2020-02-19,19:30,Man City,West Ham,2,0,H,K Friend,20,7,3,0
+260,2020-02-22,12:30,Chelsea,Tottenham,2,1,H,M Oliver,17,7,5,3
+261,2020-02-22,15:00,Burnley,Bournemouth,3,0,H,M Dean,16,10,12,4
+262,2020-02-22,15:00,Crystal Palace,Newcastle,1,0,H,P Bankes,18,9,8,2
+263,2020-02-22,15:00,Sheffield United,Brighton,1,1,D,G Scott,14,3,8,2
+264,2020-02-22,15:00,Southampton,Aston Villa,2,0,H,C Pawson,28,9,4,1
+265,2020-02-22,17:30,Leicester,Man City,0,1,A,P Tierney,10,3,18,7
+266,2020-02-23,14:00,Man United,Watford,3,0,H,M Atkinson,21,9,7,2
+267,2020-02-23,14:00,Wolves,Norwich,3,0,H,C Kavanagh,19,6,6,4
+268,2020-02-23,16:30,Arsenal,Everton,3,2,H,S Attwell,9,4,17,5
+269,2020-02-24,20:00,Liverpool,West Ham,3,2,H,J Moss,25,7,7,4
+270,2020-02-28,20:00,Norwich,Leicester,1,0,H,C Pawson,11,6,19,4
+271,2020-02-29,12:30,Brighton,Crystal Palace,0,1,A,M Atkinson,24,8,12,3
+272,2020-02-29,15:00,Bournemouth,Chelsea,2,2,D,A Marriner,9,5,23,6
+273,2020-02-29,15:00,Newcastle,Burnley,0,0,D,A Madley,21,4,8,1
+274,2020-02-29,15:00,West Ham,Southampton,3,1,H,A Taylor,14,7,10,2
+275,2020-02-29,17:30,Watford,Liverpool,3,0,H,M Oliver,14,5,7,1
+276,2020-03-01,14:00,Everton,Man United,1,1,D,C Kavanagh,16,5,14,5
+277,2020-03-01,14:00,Tottenham,Wolves,2,3,A,S Attwell,13,5,14,4
+278,2020-03-07,12:30,Liverpool,Bournemouth,2,1,H,P Tierney,14,6,6,4
+279,2020-03-07,15:00,Arsenal,West Ham,1,0,H,M Atkinson,9,2,14,6
+280,2020-03-07,15:00,Crystal Palace,Watford,1,0,H,A Taylor,10,3,10,4
+281,2020-03-07,15:00,Sheffield United,Norwich,1,0,H,S Hooper,10,4,12,5
+282,2020-03-07,15:00,Southampton,Newcastle,0,1,A,G Scott,6,3,14,7
+283,2020-03-07,15:00,Wolves,Brighton,0,0,D,A Marriner,11,1,7,1
+284,2020-03-07,17:30,Burnley,Tottenham,1,1,D,J Moss,21,8,13,2
+285,2020-03-08,14:00,Chelsea,Everton,4,0,H,K Friend,17,11,3,1
+286,2020-03-08,16:30,Man United,Man City,2,0,H,M Dean,12,6,7,2
+287,2020-03-09,20:00,Leicester,Aston Villa,4,0,H,M Oliver,15,7,4,1
