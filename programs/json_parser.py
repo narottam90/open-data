@@ -7,7 +7,7 @@ directory = os.fsencode(directory_in_str)
 
 with open('output.csv', 'w', newline='', encoding='utf8') as f:
     writer = csv.writer(f)
-    writer.writerow(["Match Date", "Kick Off Time", "Home Team", "HGoals", "Away Team", "AGoals"])
+    writer.writerow(["Match Date", "Kick Off Time", "Home Team", "HGoals", "Away Team", "AGoals", "Season"])
 
 # SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
 # This error occurs because you are using a normal string as a path. You can use one of the following solutions to fix your problem.
@@ -23,7 +23,7 @@ with open('output.csv', 'w', newline='', encoding='utf8') as f:
     try:
         for file in os.listdir(directory_in_str):
             filename = os.fsdecode(file)
-            print(filename)
+            # print(filename)
 
         # open the json file
             with open(filename, 'r', encoding = 'utf8') as myFile:
@@ -38,8 +38,10 @@ with open('output.csv', 'w', newline='', encoding='utf8') as f:
                     homeScore = item['home_score']
                     awayTeam = item['away_team']['away_team_name']
                     awayScore = item['away_score']
+                    season = item['season']['season_name']
+                    # print(md, ko, homeTeam, homeScore, awayTeam, awayScore, season)
 
-                    rowData = [md, ko, homeTeam, homeScore, awayTeam, awayScore]
+                    rowData = [md, ko, homeTeam, homeScore, awayTeam, awayScore, season]
                     writer.writerow(rowData)
     except:
         quit()
